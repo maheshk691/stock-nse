@@ -1,4 +1,5 @@
 #import Equity from 'equity.graphql'
+#import EPSData from 'equity.graphql'
 #import StringArrayFilter from 'inputs.graphql'
 #import ObjectFilter from 'inputs.graphql'
 #import Index from 'stockIndex.graphql'
